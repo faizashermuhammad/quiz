@@ -1,3 +1,31 @@
-/* h1{
+body{
+    margin: 0px;
+    padding: 0px;
     text-align: center;
-} */
+    background-color: hsla(175, 28%, 47%, 0.788);
+    border: 150px solid black;
+    border-radius: 25px;
+    
+    
+}
+h1{
+    border-bottom: 1px solid black;
+    padding-bottom: 0.1em;
+    
+}
+ p{
+     font-size: 20px;
+ }
+ button{
+     border-radius: 5em;
+     border: none;
+     padding: 1em 3em;
+     margin-bottom: 3em;
+     margin-top: 2em;
+     font-size: 16px;
+ }
+ button:hover{
+     background-color: rgb(0, 132, 255);
+     color: aliceblue;
+ }
+
